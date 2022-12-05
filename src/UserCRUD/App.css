@@ -1,0 +1,27 @@
+th,td{
+    padding:30px; 
+}
+table{
+text-align: center;
+margin-left: auto;
+margin-right: auto; 
+}
+.App{ 
+  min-height: 100vh;  
+  flex-direction: column;
+  padding:20px;  
+  display: flex;
+  font-size:20px;
+  color: white;
+  background: url(https://c0.wallpaperflare.com/preview/517/339/620/abacus-retro-vintage.jpg);
+  text-align: center;
+  background-size: cover;
+}
+.logbtn{
+  text-align:center;
+  width:65px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  text-decoration:none;
+}
